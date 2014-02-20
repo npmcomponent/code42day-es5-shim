@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [code42day/es5-shim](http://github.com/code42day/es5-shim). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/code42day-es5-shim`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 #es5-shim <sup>[![Version Badge][2]][1]</sup>
 
 [![npm badge][9]][1]
